@@ -1,0 +1,2 @@
+class TempStore:
+    content = ""
